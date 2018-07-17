@@ -43,7 +43,7 @@ system with hours played filtered to greater than 50.
 10) steam_data_w_game_id.csv: Steam Data with a modified Game ID column created by using Pandas .ngroup(). Used in svdRec recommender.
 11) steam_data_wo_game_title.csv: Steam data without game title as a feature, used in svdRec recommender.
 
-Next Steps
+Next Steps:
 1) Acquire more data via the Steam Web API such as game rating, game details and more user data to bolster the recommender systems.
 2) Use the newly acquired data from the Steam  Web API as a test set, to test my recommender systems. 
 3) Test more filters and utilize clustering to improve upon the recommender systems. 
