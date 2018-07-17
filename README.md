@@ -43,6 +43,7 @@ system with hours played filtered to greater than 50.
 9) steam_data.csv: Original Steam data acquired from Kaggle.
 10) steam_data_w_game_id.csv: Steam Data with a modified Game ID column created by using Pandas .ngroup(). Used in svdRec recommender.
 11) steam_data_wo_game_title.csv: Steam data without game title as a feature, used in svdRec recommender.
+12) EricPlog_SteamRecommender_PP.pptx: Powerpoint presentation summarizing EDA, findings and next steps.
 
 Next Steps:
 1) Acquire more data via the Steam Web API such as game rating, game details and more user data to bolster the recommender systems.
