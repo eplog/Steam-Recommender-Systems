@@ -17,6 +17,7 @@ better using different filters. For example, when querying Dota 2, the only filt
 (MOBA) was the filter of greater than 50 hours played. The game displayed was Smite, which actually has a stand alone client in addition
 to being on Steam, thus the player base is split and numbers are not representative of the total population. However, Path of Exile 
 performed worse when increasing the hours played, as the filter over 50 hours stated the most similar game was a First Person Shooter (FPS). 
+In addition, some games only take 10-20 hours to complete, so you will remove game data using filters that are too high.
 The user to user recommender required no filters, and produced using the same methods as the game to game recommender. The metric utilized
 for both recommender systems was Spearman's Correlation. I tested a wide variety of metrics (i.e., Euclidean, Hamming, Matching, etc.) and
 Spearman's Correlation was the optimal metric. 
