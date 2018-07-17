@@ -47,3 +47,4 @@ Next Steps:
 1) Acquire more data via the Steam Web API such as game rating, game details and more user data to bolster the recommender systems.
 2) Use the newly acquired data from the Steam  Web API as a test set, to test my recommender systems. 
 3) Test more filters and utilize clustering to improve upon the recommender systems. 
+4) Turn into a Flask application.
